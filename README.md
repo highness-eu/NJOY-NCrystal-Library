@@ -6,6 +6,8 @@ For each material, TSL files in the [ENDF-6](https://www.nndc.bnl.gov/csewg/docs
 
 All temperatures are provided in ENDF-6 format, but only the first one is provided in ACE format because of space requirements. Nevertheless, pdf plots created with ACER are provided for all the temperatures.
 
+Evaluations in this release were generated with [NJOY2016 2016.61_njoyncrystal](https://github.com/highness-eu/NJOY2016/tree/2016.61_njoyncrystal) and [NCrystal v2.6.1_njoyncrystal](https://github.com/highness-eu/ncrystal/tree/v2.6.1_njoyncrystal).
+
 More details can be found in the following papers:
 
 * K. Ramic, J.I. Marquez Damian, T. Kittelmann, D.D DiJulio, D. Campi, M. Bernasconi and V. Santoro. "NJOY+NCrystal: an open-source tool for creating thermal neutron scattering libraries" (to be submitted)
