@@ -1,0 +1,332 @@
+#!/usr/bin/env bash
+FILE="n_9040_90-Th-232.dat"
+ZIPFILE="n_9040_90-Th-232.zip"
+URL="https://www-nds.iaea.org/public/download-endf/ENDF-B-VIII.0/n/n_9040_90-Th-232.zip"
+NJOY="njoy"
+cp tsl-Th_in_ThSiO4_sg14_Huttonite-iel100.endf tape20 
+
+if [ ! -f "${FILE}" ]; then
+    echo "${FILE} does not exist. Downloading it from IAEA:"
+    wget --user-agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0" "${URL}"
+    unzip -u "${ZIPFILE}"
+    rm  "${ZIPFILE}"
+fi
+
+mv "${FILE}" tape21
+
+cat>input <<EOF
+reconr / Reconstruct XS for neutrons 
+21 22 / 
+'test PENDF for Th' / 
+9040 2 / 
+0.0010 / err tempr errmax 
+' Th from ENDF/B-VIII' / 
+'Processed by NJOY+NCrystal' / 
+0 / 
+broadr / Doppler broaden XS
+21 22 23 / 
+9040 12 / 
+0.0010 / errthn thnmax errmax 
+293.6 20.0 77.0 100.0 200.0 300.0 400.0 600.0 800.0 1000.0 1500.0 2000.0 / 
+0 / 
+thermr / Add thermal scattering data (bound)
+20 23 31/ 
+129 9040 32 12 2 1 0 1 250 1 / 
+293.6 20.0 77.0 100.0 200.0 300.0 400.0 600.0 800.0 1000.0 1500.0 2000.0 /
+0.0010 5.00 -600.00/
+stop
+EOF
+${NJOY} < input
+
+ielas=`grep "Set ielas=" output |  cut -d "=" -f 2 | cut -b 1-2 | head -n 1`
+
+cat>input_acer_00 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .00 /
+' Th-ThSiO4_sg14_Huttonite @ 293.60K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 293.60 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 293.60K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_00
+
+mv tape32 Th-114-00.ace 
+mv tape33 Th-114-00.xsdir 
+mv tape37 Th-114-00.ps 
+ps2pdf14 Th-114-00.ps 
+mv tape34 Th-114-00.dat 
+
+cat>input_acer_01 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .01 /
+' Th-ThSiO4_sg14_Huttonite @ 20.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 20.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 20.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_01
+
+mv tape32 Th-114-01.ace 
+mv tape33 Th-114-01.xsdir 
+mv tape37 Th-114-01.ps 
+ps2pdf14 Th-114-01.ps 
+mv tape34 Th-114-01.dat 
+
+cat>input_acer_02 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .02 /
+' Th-ThSiO4_sg14_Huttonite @ 77.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 77.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 77.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_02
+
+mv tape32 Th-114-02.ace 
+mv tape33 Th-114-02.xsdir 
+mv tape37 Th-114-02.ps 
+ps2pdf14 Th-114-02.ps 
+mv tape34 Th-114-02.dat 
+
+cat>input_acer_03 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .03 /
+' Th-ThSiO4_sg14_Huttonite @ 100.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 100.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 100.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_03
+
+mv tape32 Th-114-03.ace 
+mv tape33 Th-114-03.xsdir 
+mv tape37 Th-114-03.ps 
+ps2pdf14 Th-114-03.ps 
+mv tape34 Th-114-03.dat 
+
+cat>input_acer_04 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .04 /
+' Th-ThSiO4_sg14_Huttonite @ 200.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 200.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 200.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_04
+
+mv tape32 Th-114-04.ace 
+mv tape33 Th-114-04.xsdir 
+mv tape37 Th-114-04.ps 
+ps2pdf14 Th-114-04.ps 
+mv tape34 Th-114-04.dat 
+
+cat>input_acer_05 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .05 /
+' Th-ThSiO4_sg14_Huttonite @ 300.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 300.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 300.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_05
+
+mv tape32 Th-114-05.ace 
+mv tape33 Th-114-05.xsdir 
+mv tape37 Th-114-05.ps 
+ps2pdf14 Th-114-05.ps 
+mv tape34 Th-114-05.dat 
+
+cat>input_acer_06 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .06 /
+' Th-ThSiO4_sg14_Huttonite @ 400.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 400.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 400.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_06
+
+mv tape32 Th-114-06.ace 
+mv tape33 Th-114-06.xsdir 
+mv tape37 Th-114-06.ps 
+ps2pdf14 Th-114-06.ps 
+mv tape34 Th-114-06.dat 
+
+cat>input_acer_07 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .07 /
+' Th-ThSiO4_sg14_Huttonite @ 600.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 600.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 600.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_07
+
+mv tape32 Th-114-07.ace 
+mv tape33 Th-114-07.xsdir 
+mv tape37 Th-114-07.ps 
+ps2pdf14 Th-114-07.ps 
+mv tape34 Th-114-07.dat 
+
+cat>input_acer_08 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .08 /
+' Th-ThSiO4_sg14_Huttonite @ 800.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 800.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 800.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_08
+
+mv tape32 Th-114-08.ace 
+mv tape33 Th-114-08.xsdir 
+mv tape37 Th-114-08.ps 
+ps2pdf14 Th-114-08.ps 
+mv tape34 Th-114-08.dat 
+
+cat>input_acer_09 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .09 /
+' Th-ThSiO4_sg14_Huttonite @ 1000.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 1000.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 1000.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_09
+
+mv tape32 Th-114-09.ace 
+mv tape33 Th-114-09.xsdir 
+mv tape37 Th-114-09.ps 
+ps2pdf14 Th-114-09.ps 
+mv tape34 Th-114-09.dat 
+
+cat>input_acer_10 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .10 /
+' Th-ThSiO4_sg14_Huttonite @ 1500.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 1500.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 1500.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_10
+
+mv tape32 Th-114-10.ace 
+mv tape33 Th-114-10.xsdir 
+mv tape37 Th-114-10.ps 
+ps2pdf14 Th-114-10.ps 
+mv tape34 Th-114-10.dat 
+
+cat>input_acer_11 <<EOF
+acer / Prepare ACE files 
+23 31 0 32 33 / 
+2 1 1 .11 /
+' Th-ThSiO4_sg14_Huttonite @ 2000.00K from NJOY+NCrystal - MIXED ELASTIC ' /
+9040 2000.00 Th-114 2 / 
+90000 90232 /
+250 200 251 ${ielas} 1 5.00 2 / 
+acer / Plot ACE files 
+0 32 34 34 35 36 / 
+7 1 /
+' Th-ThSiO4_sg14_Huttonite @ 2000.00K ' /
+viewr / 
+34 37 /
+stop
+EOF
+${NJOY} < input_acer_11
+
+mv tape32 Th-114-11.ace 
+mv tape33 Th-114-11.xsdir 
+mv tape37 Th-114-11.ps 
+ps2pdf14 Th-114-11.ps 
+mv tape34 Th-114-11.dat 
+
+rm tape?? output 
+rm *.ps
