@@ -262,7 +262,7 @@ Mo in Mo_sg229_Molybdenum /
 -1500.00 /
 -2000.00 /
 -2500.00 /
-' Mo         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Mo         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  67                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -273,7 +273,7 @@ Mo in Mo_sg229_Molybdenum /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Mo_sg229_Molybdenum.ncmat                                     *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
