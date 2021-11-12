@@ -261,7 +261,7 @@ Si in SiLu2O5_sg15_SiliconLutetiumOxide /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' Si(SiLu2O5 ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Si(SiLu2O5 ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  83                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -272,7 +272,7 @@ Si in SiLu2O5_sg15_SiliconLutetiumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  SiLu2O5_sg15_SiliconLutetiumOxide.ncmat                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
