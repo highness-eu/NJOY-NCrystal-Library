@@ -258,7 +258,7 @@ O in CaCO3_sg62_Aragonite /
 -600.00 /
 -800.00 /
 -1000.00 /
-' O(CaCO3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(CaCO3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  60                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ O in CaCO3_sg62_Aragonite /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  CaCO3_sg62_Aragonite.ncmat                                    *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
