@@ -253,7 +253,7 @@ Rb in Rb_sg229_Rubidium /
 -250.00 /
 -293.60 /
 -300.00 /
-' Rb         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Rb         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  68                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -264,7 +264,7 @@ Rb in Rb_sg229_Rubidium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Rb_sg229_Rubidium.ncmat                                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
