@@ -261,7 +261,7 @@ Si in Si_sg227_Silicon /
 -1200.00 /
 -1400.00 /
 -1600.00 /
-' Si         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Si         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  51                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -272,7 +272,7 @@ Si in Si_sg227_Silicon /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Si_sg227_Silicon.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
