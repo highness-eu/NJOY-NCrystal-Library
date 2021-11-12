@@ -253,7 +253,7 @@ Bi in Bi_sg166_Bismuth /
 -300.00 /
 -400.00 /
 -500.00 /
-' Bi         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Bi         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  56                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -264,7 +264,7 @@ Bi in Bi_sg166_Bismuth /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Bi_sg166_Bismuth.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
