@@ -261,7 +261,7 @@ N in Th3N4_sg166_ThoriumNitride /
 -2000.00 /
 -2500.00 /
 -3000.00 /
-' N(Th3N4)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' N(Th3N4)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  188                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -272,7 +272,7 @@ N in Th3N4_sg166_ThoriumNitride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Th3N4_sg166_ThoriumNitride.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
