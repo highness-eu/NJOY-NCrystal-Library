@@ -256,7 +256,7 @@ Mg in Mg_sg194_Magnesium /
 -600.00 /
 -800.00 /
 -900.00 /
-' Mg         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Mg         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  56                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ Mg in Mg_sg194_Magnesium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Mg_sg194_Magnesium.ncmat                                      *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
