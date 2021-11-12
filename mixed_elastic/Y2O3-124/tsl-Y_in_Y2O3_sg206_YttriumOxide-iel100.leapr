@@ -260,7 +260,7 @@ Y in Y2O3_sg206_YttriumOxide /
 -1500.00 /
 -2000.00 /
 -2500.00 /
-' Y(Y2O3)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Y(Y2O3)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  46                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Y in Y2O3_sg206_YttriumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Y2O3_sg206_YttriumOxide.ncmat                                 *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
