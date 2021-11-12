@@ -258,7 +258,7 @@ Ba in Ba_sg229_Barium /
 -600.00 /
 -800.00 /
 -1000.00 /
-' Ba         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ba         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  54                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ Ba in Ba_sg229_Barium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Ba_sg229_Barium.ncmat                                         *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
