@@ -252,7 +252,7 @@ Fe in Fe-gamma_sg225_GammaIron /
 -1600.00 /
 -1700.00 /
 -1800.00 /
-' Fe(Fe-gamm ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Fe(Fe-gamm ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  66                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -263,7 +263,7 @@ Fe in Fe-gamma_sg225_GammaIron /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Fe-gamma_sg225_GammaIron.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
