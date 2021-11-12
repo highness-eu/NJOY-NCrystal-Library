@@ -261,7 +261,7 @@ W in W_sg229_Tungsten /
 -2000.00 /
 -2500.00 /
 -3500.00 /
-' W          ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' W          ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  67                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -272,7 +272,7 @@ W in W_sg229_Tungsten /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  W_sg229_Tungsten.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
