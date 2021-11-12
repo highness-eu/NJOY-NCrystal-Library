@@ -260,7 +260,7 @@ N in AlN_sg186_AluminumNitride /
 -1500.00 /
 -2500.00 /
 -2700.00 /
-' N(AlN)     ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' N(AlN)     ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  126                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ N in AlN_sg186_AluminumNitride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  AlN_sg186_AluminumNitride.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
