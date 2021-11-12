@@ -260,7 +260,7 @@ Tm in Tm2O3_sg206_ThuliumOxide /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' Tm(Tm2O3)  ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Tm(Tm2O3)  ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  183                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Tm in Tm2O3_sg206_ThuliumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Tm2O3_sg206_ThuliumOxide.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
