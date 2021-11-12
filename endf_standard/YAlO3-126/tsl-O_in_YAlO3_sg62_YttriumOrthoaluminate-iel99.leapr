@@ -260,7 +260,7 @@ O in YAlO3_sg62_YttriumOrthoaluminate /
 -1000.00 /
 -1500.00 /
 -2000.00 /
-' O(YAlO3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(YAlO3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  92                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ O in YAlO3_sg62_YttriumOrthoaluminate /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  YAlO3_sg62_YttriumOrthoaluminate.ncmat                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
