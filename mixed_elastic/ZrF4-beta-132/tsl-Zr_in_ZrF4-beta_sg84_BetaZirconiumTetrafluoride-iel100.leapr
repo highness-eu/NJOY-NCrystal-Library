@@ -256,7 +256,7 @@ Zr in ZrF4-beta_sg84_BetaZirconiumTetrafluoride /
 -1050.00 /
 -1100.00 /
 -1150.00 /
-' Zr(ZrF4-be ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Zr(ZrF4-be ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  75                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ Zr in ZrF4-beta_sg84_BetaZirconiumTetrafluoride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  ZrF4-beta_sg84_BetaZirconiumTetrafluoride.ncmat               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
