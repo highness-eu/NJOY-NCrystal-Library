@@ -258,7 +258,7 @@ La in LaBr3_sg176_LanthanumBromide /
 -600.00 /
 -800.00 /
 -1000.00 /
-' La(LaBr3)  ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' La(LaBr3)  ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  81                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ La in LaBr3_sg176_LanthanumBromide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  LaBr3_sg176_LanthanumBromide.ncmat                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
