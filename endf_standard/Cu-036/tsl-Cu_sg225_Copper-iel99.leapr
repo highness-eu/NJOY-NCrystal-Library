@@ -257,7 +257,7 @@ Cu in Cu_sg225_Copper /
 -800.00 /
 -1000.00 /
 -1200.00 /
-' Cu         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Cu         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  64                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -268,7 +268,7 @@ Cu in Cu_sg225_Copper /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Cu_sg225_Copper.ncmat                                         *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
