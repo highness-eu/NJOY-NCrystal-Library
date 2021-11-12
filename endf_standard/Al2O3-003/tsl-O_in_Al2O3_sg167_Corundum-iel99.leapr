@@ -262,7 +262,7 @@ O in Al2O3_sg167_Corundum /
 -1500.00 /
 -2000.00 /
 -2200.00 /
-' O(Al2O3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(Al2O3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  46                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -273,7 +273,7 @@ O in Al2O3_sg167_Corundum /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Al2O3_sg167_Corundum.ncmat                                    *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
