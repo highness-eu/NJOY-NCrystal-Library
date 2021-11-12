@@ -259,7 +259,7 @@ Ba in BaO_sg225_BariumOxide /
 -1000.00 /
 -1500.00 /
 -2000.00 /
-' Ba(BaO)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ba(BaO)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  90                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Ba in BaO_sg225_BariumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  BaO_sg225_BariumOxide.ncmat                                   *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
