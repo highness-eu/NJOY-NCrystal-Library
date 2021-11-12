@@ -255,7 +255,7 @@ K in K_sg229_Potassium /
 -250.00 /
 -293.60 /
 -300.00 /
-' K          ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' K          ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  52                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -266,7 +266,7 @@ K in K_sg229_Potassium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  K_sg229_Potassium.ncmat                                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
