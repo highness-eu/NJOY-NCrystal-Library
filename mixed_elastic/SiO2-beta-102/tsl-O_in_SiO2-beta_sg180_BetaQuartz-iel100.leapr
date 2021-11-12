@@ -259,7 +259,7 @@ O in SiO2-beta_sg180_BetaQuartz /
 -1700.00 /
 -1800.00 /
 -1900.00 /
-' O(SiO2-bet ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(SiO2-bet ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  49                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ O in SiO2-beta_sg180_BetaQuartz /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  SiO2-beta_sg180_BetaQuartz.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
