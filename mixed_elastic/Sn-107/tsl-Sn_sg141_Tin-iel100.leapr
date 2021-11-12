@@ -251,7 +251,7 @@ Sn in Sn_sg141_Tin /
 -400.00 /
 -450.00 /
 -500.00 /
-' Sn         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Sn         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  64                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -262,7 +262,7 @@ Sn in Sn_sg141_Tin /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Sn_sg141_Tin.ncmat                                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
