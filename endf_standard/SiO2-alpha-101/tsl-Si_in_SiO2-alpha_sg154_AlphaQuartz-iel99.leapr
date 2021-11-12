@@ -255,7 +255,7 @@ Si in SiO2-alpha_sg154_AlphaQuartz /
 -500.00 /
 -600.00 /
 -800.00 /
-' Si(SiO2-al ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Si(SiO2-al ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  46                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -266,7 +266,7 @@ Si in SiO2-alpha_sg154_AlphaQuartz /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  SiO2-alpha_sg154_AlphaQuartz.ncmat                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
