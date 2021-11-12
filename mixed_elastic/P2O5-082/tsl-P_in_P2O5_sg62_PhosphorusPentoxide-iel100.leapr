@@ -256,7 +256,7 @@ P in P2O5_sg62_PhosphorusPentoxide /
 -400.00 /
 -500.00 /
 -600.00 /
-' P(P2O5)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' P(P2O5)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  45                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ P in P2O5_sg62_PhosphorusPentoxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  P2O5_sg62_PhosphorusPentoxide.ncmat                           *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
