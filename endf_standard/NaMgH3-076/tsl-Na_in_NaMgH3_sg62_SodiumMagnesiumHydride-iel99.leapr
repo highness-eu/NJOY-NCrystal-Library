@@ -256,7 +256,7 @@ Na in NaMgH3_sg62_SodiumMagnesiumHydride /
 -400.00 /
 -500.00 /
 -600.00 /
-' Na(NaMgH3) ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Na(NaMgH3) ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  64                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ Na in NaMgH3_sg62_SodiumMagnesiumHydride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  NaMgH3_sg62_SodiumMagnesiumHydride.ncmat                      *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
