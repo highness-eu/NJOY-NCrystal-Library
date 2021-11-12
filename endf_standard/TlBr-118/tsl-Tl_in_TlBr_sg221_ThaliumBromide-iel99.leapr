@@ -256,7 +256,7 @@ Tl in TlBr_sg221_ThaliumBromide /
 -400.00 /
 -600.00 /
 -700.00 /
-' Tl(TlBr)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Tl(TlBr)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  94                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ Tl in TlBr_sg221_ThaliumBromide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  TlBr_sg221_ThaliumBromide.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
