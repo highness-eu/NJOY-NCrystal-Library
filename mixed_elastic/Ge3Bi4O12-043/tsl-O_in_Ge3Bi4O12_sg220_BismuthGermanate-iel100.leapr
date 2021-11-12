@@ -259,7 +259,7 @@ O in Ge3Bi4O12_sg220_BismuthGermanate /
 -800.00 /
 -1000.00 /
 -1300.00 /
-' O(Ge3Bi4O1 ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(Ge3Bi4O1 ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  99                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ O in Ge3Bi4O12_sg220_BismuthGermanate /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Ge3Bi4O12_sg220_BismuthGermanate.ncmat                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
