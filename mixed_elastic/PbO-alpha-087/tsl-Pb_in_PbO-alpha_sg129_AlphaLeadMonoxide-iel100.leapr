@@ -259,7 +259,7 @@ Pb in PbO-alpha_sg129_AlphaLeadMonoxide /
 -800.00 /
 -1000.00 /
 -1100.00 /
-' Pb(PbO-alp ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Pb(PbO-alp ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  89                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Pb in PbO-alpha_sg129_AlphaLeadMonoxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  PbO-alpha_sg129_AlphaLeadMonoxide.ncmat                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
