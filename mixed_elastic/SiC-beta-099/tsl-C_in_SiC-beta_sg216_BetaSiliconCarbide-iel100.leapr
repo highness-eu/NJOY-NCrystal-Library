@@ -260,7 +260,7 @@ C in SiC-beta_sg216_BetaSiliconCarbide /
 -1000.00 /
 -1500.00 /
 -1900.00 /
-' C(SiC-beta ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' C(SiC-beta ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  78                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ C in SiC-beta_sg216_BetaSiliconCarbide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  SiC-beta_sg216_BetaSiliconCarbide.ncmat                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
