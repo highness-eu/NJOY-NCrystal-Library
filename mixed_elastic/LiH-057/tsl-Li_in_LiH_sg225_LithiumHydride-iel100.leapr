@@ -259,7 +259,7 @@ Li in LiH_sg225_LithiumHydride /
 -700.00 /
 -800.00 /
 -900.00 /
-' Li(LiH)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Li(LiH)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  132                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Li in LiH_sg225_LithiumHydride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  LiH_sg225_LithiumHydride.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
