@@ -256,7 +256,7 @@ O in NaOH_sg63_SodiumHydroxide /
 -400.00 /
 -500.00 /
 -590.00 /
-' O(NaOH)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(NaOH)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  82                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ O in NaOH_sg63_SodiumHydroxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  NaOH_sg63_SodiumHydroxide.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
