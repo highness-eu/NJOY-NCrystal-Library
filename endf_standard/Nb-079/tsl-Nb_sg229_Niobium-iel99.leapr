@@ -260,7 +260,7 @@ Nb in Nb_sg229_Niobium /
 -1500.00 /
 -2000.00 /
 -2500.00 /
-' Nb         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Nb         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  70                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Nb in Nb_sg229_Niobium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Nb_sg229_Niobium.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
