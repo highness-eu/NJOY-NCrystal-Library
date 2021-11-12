@@ -258,7 +258,7 @@ Br in KBr_sg225_PotassiumBromide /
 -600.00 /
 -800.00 /
 -1000.00 /
-' Br(KBr)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Br(KBr)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  65                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ Br in KBr_sg225_PotassiumBromide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  KBr_sg225_PotassiumBromide.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
