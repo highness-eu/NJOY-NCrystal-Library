@@ -260,7 +260,7 @@ Pb in PbS_sg225_LeadSulfide /
 -1000.00 /
 -1200.00 /
 -1300.00 /
-' Pb(PbS)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Pb(PbS)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  91                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Pb in PbS_sg225_LeadSulfide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  PbS_sg225_LeadSulfide.ncmat                                   *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
