@@ -258,7 +258,7 @@ Na in NaF_sg225_SodiumFlouride /
 -800.00 /
 -1000.00 /
 -1200.00 /
-' Na(NaF)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Na(NaF)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  75                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ Na in NaF_sg225_SodiumFlouride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  NaF_sg225_SodiumFlouride.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
