@@ -263,7 +263,7 @@ C in C-diamond_sg227_Diamond /
 -3000.00 /
 -3500.00 /
 -4000.00 /
-' C(C-diamon ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' C(C-diamon ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  35                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -274,7 +274,7 @@ C in C-diamond_sg227_Diamond /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  C-diamond_sg227_Diamond.ncmat                                 *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
