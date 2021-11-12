@@ -259,7 +259,7 @@ Si in Na4Si3Al3O12Cl_sg218_Sodalite /
 -800.00 /
 -1000.00 /
 -1300.00 /
-' Si(Na4Si3A ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Si(Na4Si3A ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  88                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Si in Na4Si3Al3O12Cl_sg218_Sodalite /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Na4Si3Al3O12Cl_sg218_Sodalite.ncmat                           *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
