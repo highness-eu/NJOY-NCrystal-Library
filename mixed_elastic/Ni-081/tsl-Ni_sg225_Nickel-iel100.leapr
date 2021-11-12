@@ -260,7 +260,7 @@ Ni in Ni_sg225_Nickel /
 -1000.00 /
 -1200.00 /
 -1500.00 /
-' Ni         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ni         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  51                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Ni in Ni_sg225_Nickel /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Ni_sg225_Nickel.ncmat                                         *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
