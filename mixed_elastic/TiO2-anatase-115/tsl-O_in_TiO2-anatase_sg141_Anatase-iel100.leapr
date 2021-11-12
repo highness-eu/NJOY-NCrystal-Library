@@ -260,7 +260,7 @@ O in TiO2-anatase_sg141_Anatase /
 -1000.00 /
 -1500.00 /
 -2000.00 /
-' O(TiO2-ana ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(TiO2-ana ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  76                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ O in TiO2-anatase_sg141_Anatase /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  TiO2-anatase_sg141_Anatase.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
