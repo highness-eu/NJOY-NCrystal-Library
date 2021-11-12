@@ -258,7 +258,7 @@ K in KF_sg225_PotassiumFlouride /
 -800.00 /
 -1000.00 /
 -1100.00 /
-' K(KF)      ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' K(KF)      ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  73                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ K in KF_sg225_PotassiumFlouride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  KF_sg225_PotassiumFlouride.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
