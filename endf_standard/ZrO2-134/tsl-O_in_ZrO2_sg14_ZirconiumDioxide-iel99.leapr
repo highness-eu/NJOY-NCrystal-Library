@@ -260,7 +260,7 @@ O in ZrO2_sg14_ZirconiumDioxide /
 -1000.00 /
 -1200.00 /
 -1400.00 /
-' O(ZrO2)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(ZrO2)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  46                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ O in ZrO2_sg14_ZirconiumDioxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  ZrO2_sg14_ZirconiumDioxide.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
