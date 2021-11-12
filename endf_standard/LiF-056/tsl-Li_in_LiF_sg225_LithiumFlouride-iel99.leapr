@@ -258,7 +258,7 @@ Li in LiF_sg225_LithiumFlouride /
 -800.00 /
 -1000.00 /
 -1100.00 /
-' Li(LiF)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Li(LiF)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  71                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ Li in LiF_sg225_LithiumFlouride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  LiF_sg225_LithiumFlouride.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
