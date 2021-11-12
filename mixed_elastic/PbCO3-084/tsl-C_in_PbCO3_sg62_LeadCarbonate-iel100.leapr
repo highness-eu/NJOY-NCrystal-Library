@@ -256,7 +256,7 @@ C in PbCO3_sg62_LeadCarbonate /
 -400.00 /
 -500.00 /
 -580.00 /
-' C(PbCO3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' C(PbCO3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  42                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ C in PbCO3_sg62_LeadCarbonate /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  PbCO3_sg62_LeadCarbonate.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
