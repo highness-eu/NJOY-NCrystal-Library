@@ -257,7 +257,7 @@ Ca in Ca_sg225_Calcium /
 -500.00 /
 -600.00 /
 -700.00 /
-' Ca         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ca         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  80                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -268,7 +268,7 @@ Ca in Ca_sg225_Calcium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Ca_sg225_Calcium.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
