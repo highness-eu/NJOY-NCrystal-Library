@@ -261,7 +261,7 @@ C in Al4C3_sg166_AluminiumCarbide /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' C(Al4C3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' C(Al4C3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  72                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -272,7 +272,7 @@ C in Al4C3_sg166_AluminiumCarbide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Al4C3_sg166_AluminiumCarbide.ncmat                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
