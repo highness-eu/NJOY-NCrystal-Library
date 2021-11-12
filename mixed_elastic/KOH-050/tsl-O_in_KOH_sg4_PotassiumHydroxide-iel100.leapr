@@ -255,7 +255,7 @@ O in KOH_sg4_PotassiumHydroxide /
 -300.00 /
 -400.00 /
 -500.00 /
-' O(KOH)     ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(KOH)     ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  71                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -266,7 +266,7 @@ O in KOH_sg4_PotassiumHydroxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  KOH_sg4_PotassiumHydroxide.ncmat                              *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
