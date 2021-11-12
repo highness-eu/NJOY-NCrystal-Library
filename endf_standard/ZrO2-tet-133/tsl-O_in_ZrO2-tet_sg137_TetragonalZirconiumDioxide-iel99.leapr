@@ -257,7 +257,7 @@ O in ZrO2-tet_sg137_TetragonalZirconiumDioxide /
 -2200.00 /
 -2400.00 /
 -2600.00 /
-' O(ZrO2-tet ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(ZrO2-tet ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  48                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -268,7 +268,7 @@ O in ZrO2-tet_sg137_TetragonalZirconiumDioxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  ZrO2-tet_sg137_TetragonalZirconiumDioxide.ncmat               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
