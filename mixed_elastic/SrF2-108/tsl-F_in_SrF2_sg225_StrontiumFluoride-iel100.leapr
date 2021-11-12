@@ -259,7 +259,7 @@ F in SrF2_sg225_StrontiumFluoride /
 -800.00 /
 -1000.00 /
 -1400.00 /
-' F(SrF2)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' F(SrF2)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  69                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ F in SrF2_sg225_StrontiumFluoride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  SrF2_sg225_StrontiumFluoride.ncmat                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
