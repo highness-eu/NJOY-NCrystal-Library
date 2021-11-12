@@ -258,7 +258,7 @@ Ca in CaOH2_sg164_CalciumHydroxide /
 -600.00 /
 -700.00 /
 -800.00 /
-' Ca(CaOH2)  ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ca(CaOH2)  ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  97                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ Ca in CaOH2_sg164_CalciumHydroxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  CaOH2_sg164_CalciumHydroxide.ncmat                            *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
