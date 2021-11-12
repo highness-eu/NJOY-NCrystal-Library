@@ -256,7 +256,7 @@ Na in Na_sg229_Sodium /
 -293.60 /
 -300.00 /
 -350.00 /
-' Na         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Na         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  68                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ Na in Na_sg229_Sodium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Na_sg229_Sodium.ncmat                                         *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
