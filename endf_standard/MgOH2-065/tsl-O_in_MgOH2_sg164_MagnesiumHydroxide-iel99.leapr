@@ -256,7 +256,7 @@ O in MgOH2_sg164_MagnesiumHydroxide /
 -400.00 /
 -500.00 /
 -600.00 /
-' O(MgOH2)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(MgOH2)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  95                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -267,7 +267,7 @@ O in MgOH2_sg164_MagnesiumHydroxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  MgOH2_sg164_MagnesiumHydroxide.ncmat                          *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
