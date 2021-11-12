@@ -260,7 +260,7 @@ O in Lu2O3_sg206_LutetiumOxide /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' O(Lu2O3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(Lu2O3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  186                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ O in Lu2O3_sg206_LutetiumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Lu2O3_sg206_LutetiumOxide.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
