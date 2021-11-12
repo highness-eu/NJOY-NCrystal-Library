@@ -254,7 +254,7 @@ O in TiO2-rutile_sg136_Rutile /
 -1600.00 /
 -1800.00 /
 -2000.00 /
-' O(TiO2-rut ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(TiO2-rut ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  85                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -265,7 +265,7 @@ O in TiO2-rutile_sg136_Rutile /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  TiO2-rutile_sg136_Rutile.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
