@@ -263,7 +263,7 @@ V in V_sg229_Vanadium /
 -1600.00 /
 -1800.00 /
 -2000.00 /
-' V          ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' V          ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  66                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -274,7 +274,7 @@ V in V_sg229_Vanadium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  V_sg229_Vanadium.ncmat                                        *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
