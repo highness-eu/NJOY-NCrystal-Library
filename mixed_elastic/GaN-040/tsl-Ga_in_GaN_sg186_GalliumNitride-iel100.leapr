@@ -259,7 +259,7 @@ Ga in GaN_sg186_GalliumNitride /
 -1000.00 /
 -1500.00 /
 -1900.00 /
-' Ga(GaN)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ga(GaN)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  73                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Ga in GaN_sg186_GalliumNitride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  GaN_sg186_GalliumNitride.ncmat                                *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
