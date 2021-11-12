@@ -257,7 +257,7 @@ Ag in Ag_sg225_Silver /
 -800.00 /
 -1000.00 /
 -1200.00 /
-' Ag         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Ag         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  51                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -268,7 +268,7 @@ Ag in Ag_sg225_Silver /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Ag_sg225_Silver.ncmat                                         *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
