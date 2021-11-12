@@ -259,7 +259,7 @@ O in Li2O_sg225_LithiumOxide /
 -1000.00 /
 -1500.00 /
 -1700.00 /
-' O(Li2O)    ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(Li2O)    ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  135                               '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ O in Li2O_sg225_LithiumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Li2O_sg225_LithiumOxide.ncmat                                 *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
