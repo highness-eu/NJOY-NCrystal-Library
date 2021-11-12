@@ -257,7 +257,7 @@ Li in Li3N_sg191_LithiumNitride /
 -600.00 /
 -800.00 /
 -1000.00 /
-' Li(Li3N)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Li(Li3N)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  61                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -268,7 +268,7 @@ Li in Li3N_sg191_LithiumNitride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Li3N_sg191_LithiumNitride.ncmat                               *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
