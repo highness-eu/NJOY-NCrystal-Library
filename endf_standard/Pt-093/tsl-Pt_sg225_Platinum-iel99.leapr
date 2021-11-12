@@ -259,7 +259,7 @@ Pt in Pt_sg225_Platinum /
 -1200.00 /
 -1500.00 /
 -2000.00 /
-' Pt         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Pt         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  67                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -270,7 +270,7 @@ Pt in Pt_sg225_Platinum /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Pt_sg225_Platinum.ncmat                                       *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
