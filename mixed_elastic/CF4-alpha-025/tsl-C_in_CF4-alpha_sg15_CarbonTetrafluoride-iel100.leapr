@@ -258,7 +258,7 @@ C in CF4-alpha_sg15_CarbonTetrafluoride /
 -60.00 /
 -65.00 /
 -70.00 /
-' C(CF4-alph ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' C(CF4-alph ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  40                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -269,7 +269,7 @@ C in CF4-alpha_sg15_CarbonTetrafluoride /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  CF4-alpha_sg15_CarbonTetrafluoride.ncmat                      *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
