@@ -260,7 +260,7 @@ Pd in Pd_sg225_Palladium /
 -1400.00 /
 -1600.00 /
 -1800.00 /
-' Pd         ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Pd         ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  66                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ Pd in Pd_sg225_Palladium /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Pd_sg225_Palladium.ncmat                                      *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
