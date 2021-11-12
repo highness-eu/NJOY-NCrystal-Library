@@ -262,7 +262,7 @@ Al in MgAl2O4_sg227_MagnesiumAluminateSpinel /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' Al(MgAl2O4 ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' Al(MgAl2O4 ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  49                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -273,7 +273,7 @@ Al in MgAl2O4_sg227_MagnesiumAluminateSpinel /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  MgAl2O4_sg227_MagnesiumAluminateSpinel.ncmat                  *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
