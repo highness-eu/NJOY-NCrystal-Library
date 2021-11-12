@@ -260,7 +260,7 @@ O in Dy2O3_sg206_DysprosiumOxide /
 -1500.00 /
 -2000.00 /
 -2400.00 /
-' O(Dy2O3)   ESS       EVAL-Oct21 The NJOY+NCrystal Team           '    
+' O(Dy2O3)   ESS       EVAL-Nov21 The NJOY+NCrystal Team           '    
 '                      DIST-                                       '
 '----ENDF/B-VIII.0+    MATERIAL  74                                '
 '-----THERMAL NEUTRON SCATTERING DATA                              '
@@ -271,7 +271,7 @@ O in Dy2O3_sg206_DysprosiumOxide /
 '* Generated with NJOY+NCrystal v2.6.1 from:                      *'
 '*  Dy2O3_sg206_DysprosiumOxide.ncmat                             *'
 '* For more information:                                          *'
-'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.2 *'
+'* https://github.com/highness-eu/NJOY-NCrystal-Library/tree/v1.3 *'
 '*                                                                *'
 '******************************************************************'
 '*                                                                *'
