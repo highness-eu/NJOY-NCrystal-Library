@@ -10,7 +10,7 @@ Evaluations in this release were generated with [NJOY2016 2016.61_njoyncrystal](
 
 More details can be found in the following papers:
 
-* K. Ramic, J.I. Marquez Damian, T. Kittelmann, D.D DiJulio, D. Campi, M. Bernasconi and V. Santoro. "NJOY+NCrystal: an open-source tool for creating thermal neutron scattering libraries" (to be submitted)
+* K. Ramic, J.I. Marquez Damian, T. Kittelmann, D.D DiJulio, D. Campi, M. Bernasconi and V. Santoro. "NJOY+NCrystal: an open-source tool for creating thermal neutron scattering libraries"  Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 1027 (2022) 166227, https://doi.org/10.1016/j.nima.2021.166227
 * X.-X. Cai and T. Kittelmann, NCrystal: A library for thermal neutron transport, Computer Physics Communications 246 (2020) 106851, https://doi.org/10.1016/j.cpc.2019.07.015
 
 This work was funded by HighNESS project at European Spallation Source ERIC under HORIZON 2020 grant agreement ID: 951782.
